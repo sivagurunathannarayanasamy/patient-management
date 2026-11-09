@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build output (any service)
+target/
+
+# Logs and secrets
+*.log
+.env
+http-client.private.env.json
